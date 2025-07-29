@@ -5,7 +5,7 @@ name: Veracode Auto-Packaging and Pipeline Scan
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
 
 permissions: 
