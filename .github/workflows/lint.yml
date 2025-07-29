@@ -1,4 +1,5 @@
 # This script will Auto pkg, run pipeline scan using jar, upload the results to the Github issues
+#jhg
 
 name: Veracode Auto-Packaging and Pipeline Scan
 
