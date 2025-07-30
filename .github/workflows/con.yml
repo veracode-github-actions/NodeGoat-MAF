@@ -4,7 +4,7 @@
 name: Veracode_container_scan
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   veracode-scan:
